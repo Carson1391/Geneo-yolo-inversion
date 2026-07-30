@@ -1,0 +1,5 @@
+image,embedding_dim,embedding_content,image_pixels,ssim,psnr_db,similarity_pct,mse
+000000000036.jpg,904995,"3x(5+80) detection features, NO color",519168,0.4652,14.79,73.3,0.033186
+000000000113.jpg,904995,"3x(5+80) detection features, NO color",519168,0.4375,14.53,71.9,0.035261
+000000262235.jpg,904995,"3x(5+80) detection features, NO color",519168,0.4847,16.97,74.2,0.020106
+000000525732.jpg,904995,"3x(5+80) detection features, NO color",519168,0.5359,13.59,76.8,0.043714
